@@ -42,5 +42,5 @@ i am open-source enthusiast. i learned a lot from the open-source community and 
 <a></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zzongke&theme=vue&show_icons=true&bg_color=DEG,COLOR1,COLOR2,COLOR3COLOR10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HaixingOoO&theme=vue&show_icons=true&bg_color=DEG,COLOR1,COLOR2,COLOR3COLOR10" />
 </a>
