@@ -2,15 +2,15 @@
 
 ***
 
-![](https://github.com/Zzongke/Zzongke/blob/master/icons/header_1.png)
+![](https://github.com/HaixingOoO/HaixingOoO/blob/master/icons/header_1.png)
 
 <a href="https://www.twitter.com/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://github.com/Zzongke/Zzongke/blob/master/icons/twitter_logo.png" />
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://github.com/HaixingOoO/HaixingOoO/blob/master/icons/twitter_logo.png" />
 </a>
 
 <br/>
 
-hi, i'm [Zzongke](https://zzongke.github.io/blog/).
+hi, i'm [HaixingOoO](https://HaixingOoO.github.io/blog/).
 
 i am open-source enthusiast. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
@@ -36,7 +36,7 @@ i am open-source enthusiast. i learned a lot from the open-source community and 
 📈 my github stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=glsl,go,rust,python,assembly&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaixingOoO&hide=glsl,go,rust,python,assembly&layout=compact" />
 </a>
 
 <a></a>
