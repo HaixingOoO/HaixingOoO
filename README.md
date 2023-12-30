@@ -2,13 +2,11 @@
 
 ***
 
-![](https://github.com/HaixingOoO/HaixingOoO/blob/master/icons/header_1.png)
+![](https://github.com/HaixingOoO/HaixingOoO/blob/master/icons/header_1.png) 
 
 <a href="https://www.twitter.com/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://github.com/HaixingOoO/HaixingOoO/blob/master/icons/twitter_logo.png" />
 </a>
-
-<br/>
 
 hi, i'm [HaixingOoO](https://HaixingOoO.github.io/blog/).
 
