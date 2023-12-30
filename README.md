@@ -23,13 +23,11 @@ hi, i'm [HaixingOoO](https://HaixingOoO.github.io/blog/).
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📈 my github stats
+**📈 my github stats**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaixingOoO&hide=glsl,go,rust,python,assembly&layout=compact" />
 </a>
-
-<a></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HaixingOoO&theme=vue&show_icons=true&bg_color=DEG,COLOR1,COLOR2,COLOR3COLOR10" />
